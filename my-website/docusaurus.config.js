@@ -30,7 +30,6 @@ const config = {
   organizationName: 'Robtastic2025', // Usually your GitHub org/user name.
   projectName: 'robtastic2025.github.io', // Usually your repo name.
   trailingSlash: false,
-  DEPLOYMENT_BRANCH=main,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
