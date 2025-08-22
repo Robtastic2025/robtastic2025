@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4457],{2132:(e,s,t)=>{t.r(s),t.d(s,{default:()=>n});t(6540);var r=t(1656),i=t(4848);function n(){return(0,i.jsxs)(r.A,{children:[(0,i.jsx)("h1",{children:"First Page"}),(0,i.jsx)("p",{children:"We are testing how things work out."})]})}}}]);
